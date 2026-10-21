@@ -1,0 +1,6 @@
+{
+  "name": "Capital Becarios - Cierre de Semana",
+  "description": "Plataforma institucional de auditoría y conciliación fiscal CFDI 4.0 para dispersión de becarios con motor criptográfico SHA-256.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
